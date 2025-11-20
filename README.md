@@ -86,5 +86,8 @@ Sim.ai + Express backend integration.
 ---
 
 ## 📫 Connect With Me
+- **Email:** [himezguruge@gmail.com](mailto:himezguruge@gmail.com)  
+- **Phone:** +94 75 777 7343  
+
 Thanks for visiting my GitHub!  
 Let’s build something amazing together 🚀
