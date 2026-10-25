@@ -47,17 +47,30 @@ I combine backend logic with frontend design to deliver complete end-to-end solu
 
 ## ⭐ Featured Projects
 
-### 🚀 **Portfolio Website**
-Sleek personal portfolio using **HTML, Tailwind CSS, JS**.
-
-### 🛒 **Full Stack E-Commerce App**
-Node.js + Express + MongoDB, includes authentication & dashboard.
-
-### 📊 **Analytics Dashboard UI**
-Designed in **Figma**, implemented with Tailwind CSS.
-
-### 🤖 **AI Chatbot Integration**
-Sim.ai + Express backend integration.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      ### 🛒 <a href="https://github.com/HimashGuruge/E-commerce-App">Full Stack E-Commerce App</a>
+      <br>Full MERN platform — customer storefront, live seller dashboard, admin panel, Stripe payments, coupons, Socket.IO live updates & order tracking.
+      <br><b>Stack:</b> React · Vite · Node · Express · MongoDB · Stripe · Socket.IO
+    </td>
+    <td width="50%" valign="top">
+      ### 🚀 <a href="https://github.com/HimashGuruge/myPortfolio">Portfolio Website</a>
+      <br>Sleek personal portfolio using HTML, Tailwind CSS and JavaScript.
+      <br><b>Stack:</b> HTML · CSS · JS · Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      ### <a href="https://github.com/HimashGuruge/CIDA-Revamp-Site">CIDA Revamp Site</a>
+      <br>Responsive site revamp — layout, UI and polish.
+    </td>
+    <td width="50%" valign="top">
+      ### <a href="https://github.com/HimashGuruge/cbc-frontend">CBC Frontend</a>
+      <br><a href="https://github.com/HimashGuruge/cbc-backend">CBC Backend</a> — combined web app (frontend + API).
+    </td>
+  </tr>
+</table>
 
 ---
 
