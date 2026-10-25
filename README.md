@@ -4,8 +4,8 @@
 ---
 
 ## 🚀 About Me  
-I'm a **Full Stack Developer** passionate about building modern, responsive, and visually appealing applications.  
-I combine backend logic with frontend design to deliver complete end-to-end solutions.
+I'm a **Full Stack Developer** and a **Multimedia & Web Technology** student at the **University of Vocational Technology (UNIVOTEC)**, passionate about software engineering and modern web development.  
+I combine backend logic with frontend design to deliver complete, responsive, end-to-end solutions.
 
 <br>
 💻 **Currently building:** a full [MERN e-commerce platform](https://github.com/HimashGuruge/E-commerce-App) with a live seller dashboard, admin panel, Stripe payments and real-time (Socket.IO) order tracking.
@@ -73,6 +73,43 @@ I combine backend logic with frontend design to deliver complete end-to-end solu
     </td>
   </tr>
 </table>
+
+---
+
+## 🎓 Education
+
+- **B.Sc. (Hons.) in Multimedia & Web Technology** — University of Vocational Technology (UNIVOTEC), Rathmalana *(2022 – 2026)*
+- **NVQ Level 5 — Information & Communication Technology (ICT)** — Maradana College of Technology, Maradana
+- **NVQ Level 4 — Computer Graphic Designer** — Lalith Athulathmudali Vocational Training Center, Rathmalana
+
+---
+
+## 💼 Experience
+
+### **Construction Industry Development Authority (CIDA)** — Full Stack Developer *(Internship, 6 months — Completed, 2025)*
+- Developed the frontend of a web app in **React.js** — responsive design, modular UI components, API integration for dynamic content.
+- Contributed to the CIDA website revamp through the full **SDLC**, improving UI/UX and performance.
+- Built a **facility/lecturer booking system** so students can schedule meetings with lecturers and supervisors.
+- Performed QA testing and frontend work on key internal systems:
+  - **Mail Tracking System** — clean UI, tested tracking and layout consistency.
+  - **ERP System** — module-based UI design, validated end-to-end workflows.
+  - **Craftsman Registration System** — built frontend components, tested the registration & approval flow.
+
+### **Rodee Web Design & Services (Pvt) Ltd** — Full Stack Developer *(Internship, 6 months)*
+- Built and maintained full-stack web apps with **JavaScript, React.js, Node.js and Express.js**.
+- Designed responsive **UI/UX** with HTML5, CSS3 and modern frontend techniques.
+- Implemented **RESTful APIs** and connected backend services to **MongoDB** and **MySQL**.
+- Worked with design and dev teams to debug, optimize performance, and ship client-ready solutions.
+- Used **Git & GitHub** for version control and collaboration.
+
+---
+
+## 📜 Certificates
+
+- **NVQ Level 5 — Information & Communication Technology (ICT)** — Maradana College of Technology
+- **NVQ Level 4 — Computer Graphic Design** — Lalith Athulathmudali Vocational Training Center
+- **IT Essentials** — Cisco Networking Academy
+- **Advanced English Language** — The Noeline Honter Academy
 
 ---
 
