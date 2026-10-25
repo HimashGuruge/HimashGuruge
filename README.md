@@ -1,8 +1,5 @@
-<!-- Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00FFFF&center=true&vCenter=true&width=700&lines=Himash+Guruge;Full+Stack+Developer;Creative+Designer"/>
-</h1>
-
+<h1 align="center">Hi, I'm Himash Guruge</h1>
+<p align="center">Full Stack Developer · Creative Designer</p>
 
 ---
 
@@ -76,22 +73,6 @@ I combine backend logic with frontend design to deliver complete end-to-end solu
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimashGuruge&show_icons=true&theme=radical" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashGuruge&layout=compact&theme=radical" height="160">
-</p>
-
----
-
-## 🟩 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Platane/snk/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
 
 ---
 
