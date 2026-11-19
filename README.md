@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Himash Guruge</h1>
 <p align="center">Full Stack Developer · Creative Designer</p>
+<p align="center">📍 Mt. Lavinia, Sri Lanka</p>
 
 ---
 
@@ -55,20 +56,22 @@ I combine backend logic with frontend design to deliver complete, responsive, en
       ### 🛒 <a href="https://github.com/HimashGuruge/E-commerce-App">Full Stack E-Commerce App</a>
       <br>Full MERN platform — customer storefront, live seller dashboard, admin panel, Stripe payments, coupons, Socket.IO live updates & order tracking.
       <br><b>Stack:</b> React · Vite · Node · Express · MongoDB · Stripe · Socket.IO
+      <br>🔗 <a href="https://e-commerce-app-frontend-rouge.vercel.app">Live Demo</a>
     </td>
     <td width="50%" valign="top">
       ### 🚀 <a href="https://github.com/HimashGuruge/myPortfolio">Portfolio Website</a>
-      <br>Sleek personal portfolio using HTML, Tailwind CSS and JavaScript.
-      <br><b>Stack:</b> HTML · CSS · JS · Tailwind
+      <br>Personal portfolio website — sleek, responsive, and fast.
+      <br><b>Stack:</b> React · Vite · Tailwind CSS
+      <br>🔗 <a href="https://my-portfolio-zeta-seven-98.vercel.app">Live Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      ### <a href="https://github.com/HimashGuruge/CIDA-Revamp-Site">CIDA Revamp Site</a>
+      ### 🏗️ <a href="https://github.com/HimashGuruge/CIDA-Revamp-Site">CIDA Revamp Site</a>
       <br>Responsive site revamp — layout, UI and polish.
     </td>
     <td width="50%" valign="top">
-      ### <a href="https://github.com/HimashGuruge/cbc-frontend">CBC Frontend</a>
+      ### 📊 <a href="https://github.com/HimashGuruge/cbc-frontend">CBC Frontend</a>
       <br><a href="https://github.com/HimashGuruge/cbc-backend">CBC Backend</a> — combined web app (frontend + API).
     </td>
   </tr>
@@ -123,8 +126,10 @@ I combine backend logic with frontend design to deliver complete, responsive, en
 ---
 
 ## 📫 Connect With Me
-- **Email:** [himezguruge@gmail.com](mailto:himezguruge@gmail.com)  
-- **Phone:** +94 75 777 7343  
+- **Email:** [himezguruge@gmail.com](mailto:himezguruge@gmail.com)
+- **Phone:** +94 75 777 7343
+- **LinkedIn:** [Himash Guruge](https://www.linkedin.com/in/himash-guruge-0718b4440/)
+- **Facebook:** [Himash Guruge](https://web.facebook.com/profile.php?id=61591531606794)
+- **Portfolio:** [my-portfolio-zeta-seven-98.vercel.app](https://my-portfolio-zeta-seven-98.vercel.app)
 
-Thanks for visiting my GitHub!  
-Let’s build something amazing together 🚀
+Thanks for visiting my GitHub! Let's build something amazing together 🚀
