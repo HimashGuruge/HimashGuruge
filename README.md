@@ -65,7 +65,6 @@ I combine backend logic with frontend design to deliver complete, responsive, en
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Figma-Light.svg" width="40" height="40" alt="Figma" title="Figma"></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Photoshop.svg" width="40" height="40" alt="Photoshop" title="Photoshop"></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Illustrator.svg" width="40" height="40" alt="Illustrator" title="Illustrator"></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/HimashGuruge/HimashGuruge@main/icons/coreldraw.svg" width="40" height="40" alt="CorelDRAW" title="CorelDRAW"></td>
