@@ -50,32 +50,101 @@ I combine backend logic with frontend design to deliver complete, responsive, en
 
 ## ⭐ Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      ### 🛒 <a href="https://github.com/HimashGuruge/E-commerce-App">Full Stack E-Commerce App</a>
-      <br>Full MERN platform — customer storefront, live seller dashboard, admin panel, Stripe payments, coupons, Socket.IO live updates & order tracking.
-      <br><b>Stack:</b> React · Vite · Node · Express · MongoDB · Stripe · Socket.IO
-      <br>🔗 <a href="https://e-commerce-app-frontend-rouge.vercel.app">Live Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      ### 🚀 <a href="https://github.com/HimashGuruge/myPortfolio">Portfolio Website</a>
-      <br>Personal portfolio website — sleek, responsive, and fast.
-      <br><b>Stack:</b> React · Vite · Tailwind CSS
-      <br>🔗 <a href="https://my-portfolio-zeta-seven-98.vercel.app">Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      ### 🏗️ <a href="https://github.com/HimashGuruge/CIDA-Revamp-Site">CIDA Revamp Site</a>
-      <br>Responsive site revamp — layout, UI and polish.
-    </td>
-    <td width="50%" valign="top">
-      ### 📊 <a href="https://github.com/HimashGuruge/cbc-frontend">CBC Frontend</a>
-      <br><a href="https://github.com/HimashGuruge/cbc-backend">CBC Backend</a> — combined web app (frontend + API).
-    </td>
-  </tr>
-</table>
+<style>
+  .proj-card { transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease; }
+  .proj-card:hover { transform: translateY(-3px); box-shadow: 0 8px 22px rgba(0,0,0,.10); border-color: #0969da; }
+  .proj-btn { transition: filter .15s ease; }
+  .proj-btn:hover { filter: brightness(1.08); }
+</style>
+
+<div style="display:flex; flex-wrap:wrap; gap:16px; align-items:stretch;">
+
+  <!-- 1. E-Commerce -->
+  <div class="proj-card" style="flex:1 1 440px; max-width:470px; border:1px solid #d1d9e0; border-radius:14px; padding:22px; background-color:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+    <div style="display:flex; align-items:center; gap:12px;">
+      <div style="font-size:30px; line-height:1;">🛒</div>
+      <div style="flex:1;">
+        <a href="https://github.com/HimashGuruge/E-commerce-App" style="font-size:17px; font-weight:700; color:#0969da; text-decoration:none;">Full Stack E-Commerce App</a>
+        <div style="font-size:13px; font-weight:600; color:#57606a; margin-top:2px;">Full MERN platform</div>
+      </div>
+    </div>
+    <p style="margin:12px 0 14px 0; font-size:14px; line-height:1.55; color:#444c56;">Production-grade e-commerce platform with a customer storefront, live seller dashboard, admin panel, Stripe payments, coupons, real-time order tracking and Socket.IO live updates.</p>
+    <div style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px;">
+      <span style="display:inline-block; padding:3px 10px; font-size:12px; font-weight:600; border-radius:20px; background-color:#eef2f6; color:#39434d; border:1px solid #d1d9e0;">React</span>
+      <span style="display:inline-block; padding:3px 10px; font-size:12px; font-weight:600; border-radius:20px; background-color:#eef2f6; color:#39434d; border:1px solid #d1d9e0;">Node.js</span>
+      <span style="display:inline-block; padding:3px 10px; font-size:12px; font-weight:600; border-radius:20px; background-color:#eef2f6; color:#39434d; border:1px solid #d1d9e0;">MongoDB</span>
+      <span style="display:inline-block; padding:3px 10px; font-size:12px; font-weight:600; border-radius:20px; background-color:#eef2f6; color:#39434d; border:1px solid #d1d9e0;">Stripe</span>
+      <span style="display:inline-block; padding:3px 10px; font-size:12px; font-weight:600; border-radius:20px; background-color:#eef2f6; color:#39434d; border:1px solid #d1d9e0;">Socket.IO</span>
+    </div>
+    <div style="display:flex; gap:10px; flex-wrap:wrap;">
+      <a href="https://e-commerce-app-frontend-rouge.vercel.app" class="proj-btn" style="display:inline-flex; align-items:center; gap:6px; padding:8px 14px; font-size:13px; font-weight:600; border-radius:8px; text-decoration:none; background-color:#1a7f37; color:#ffffff; border:1px solid #1a7f37;">▶ Live Demo</a>
+      <a href="https://github.com/HimashGuruge/E-commerce-App" class="proj-btn" style="display:inline-flex; align-items:center; gap:6px; padding:8px 14px; font-size:13px; font-weight:600; border-radius:8px; text-decoration:none; background-color:#f6f8fa; color:#1f2328; border:1px solid #d1d9e0;">Source Code</a>
+    </div>
+  </div>
+
+  <!-- 2. Portfolio -->
+  <div class="proj-card" style="flex:1 1 440px; max-width:470px; border:1px solid #d1d9e0; border-radius:14px; padding:22px; background-color:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+    <div style="display:flex; align-items:center; gap:12px;">
+      <div style="font-size:30px; line-height:1;">🚀</div>
+      <div style="flex:1;">
+        <a href="https://github.com/HimashGuruge/myPortfolio" style="font-size:17px; font-weight:700; color:#0969da; text-decoration:none;">Portfolio Website</a>
+        <div style="font-size:13px; font-weight:600; color:#57606a; margin-top:2px;">Personal portfolio</div>
+      </div>
+    </div>
+    <p style="margin:12px 0 14px 0; font-size:14px; line-height:1.55; color:#444c56;">Sleek, responsive and fast personal portfolio showcasing my work, skills and projects — built with modern frontend tooling and deployed on Vercel.</p>
+    <div style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px;">
+      <span style="display:inline-block; padding:3px 10px; font-size:12px; font-weight:600; border-radius:20px; background-color:#eef2f6; color:#39434d; border:1px solid #d1d9e0;">React</span>
+      <span style="display:inline-block; padding:3px 10px; font-size:12px; font-weight:600; border-radius:20px; background-color:#eef2f6; color:#39434d; border:1px solid #d1d9e0;">Vite</span>
+      <span style="display:inline-block; padding:3px 10px; font-size:12px; font-weight:600; border-radius:20px; background-color:#eef2f6; color:#39434d; border:1px solid #d1d9e0;">Tailwind CSS</span>
+    </div>
+    <div style="display:flex; gap:10px; flex-wrap:wrap;">
+      <a href="https://my-portfolio-zeta-seven-98.vercel.app" class="proj-btn" style="display:inline-flex; align-items:center; gap:6px; padding:8px 14px; font-size:13px; font-weight:600; border-radius:8px; text-decoration:none; background-color:#1a7f37; color:#ffffff; border:1px solid #1a7f37;">▶ Live Demo</a>
+      <a href="https://github.com/HimashGuruge/myPortfolio" class="proj-btn" style="display:inline-flex; align-items:center; gap:6px; padding:8px 14px; font-size:13px; font-weight:600; border-radius:8px; text-decoration:none; background-color:#f6f8fa; color:#1f2328; border:1px solid #d1d9e0;">Source Code</a>
+    </div>
+  </div>
+
+  <!-- 3. CIDA Revamp -->
+  <div class="proj-card" style="flex:1 1 440px; max-width:470px; border:1px solid #d1d9e0; border-radius:14px; padding:22px; background-color:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+    <div style="display:flex; align-items:center; gap:12px;">
+      <div style="font-size:30px; line-height:1;">🏗️</div>
+      <div style="flex:1;">
+        <a href="https://github.com/HimashGuruge/CIDA-Revamp-Site" style="font-size:17px; font-weight:700; color:#0969da; text-decoration:none;">CIDA Revamp Site</a>
+        <div style="font-size:13px; font-weight:600; color:#57606a; margin-top:2px;">Website revamp</div>
+      </div>
+    </div>
+    <p style="margin:12px 0 14px 0; font-size:14px; line-height:1.55; color:#444c56;">Complete responsive revamp of the CIDA website — modern layout, improved UI/UX, accessibility and performance enhancements across the full stack.</p>
+    <div style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px;">
+      <span style="display:inline-block; padding:3px 10px; font-size:12px; font-weight:600; border-radius:20px; background-color:#eef2f6; color:#39434d; border:1px solid #d1d9e0;">React</span>
+      <span style="display:inline-block; padding:3px 10px; font-size:12px; font-weight:600; border-radius:20px; background-color:#eef2f6; color:#39434d; border:1px solid #d1d9e0;">CSS</span>
+    </div>
+    <div style="display:flex; gap:10px; flex-wrap:wrap;">
+      <a href="https://github.com/HimashGuruge/CIDA-Revamp-Site" class="proj-btn" style="display:inline-flex; align-items:center; gap:6px; padding:8px 14px; font-size:13px; font-weight:600; border-radius:8px; text-decoration:none; background-color:#f6f8fa; color:#1f2328; border:1px solid #d1d9e0;">Source Code</a>
+    </div>
+  </div>
+
+  <!-- 4. CBC web app -->
+  <div class="proj-card" style="flex:1 1 440px; max-width:470px; border:1px solid #d1d9e0; border-radius:14px; padding:22px; background-color:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+    <div style="display:flex; align-items:center; gap:12px;">
+      <div style="font-size:30px; line-height:1;">📊</div>
+      <div style="flex:1;">
+        <a href="https://github.com/HimashGuruge/cbc-frontend" style="font-size:17px; font-weight:700; color:#0969da; text-decoration:none;">CBC Web App</a>
+        <div style="font-size:13px; font-weight:600; color:#57606a; margin-top:2px;">Full-stack web app</div>
+      </div>
+    </div>
+    <p style="margin:12px 0 14px 0; font-size:14px; line-height:1.55; color:#444c56;">Combined frontend + backend web application — a React frontend wired to a Node.js / Express API for full end-to-end functionality.</p>
+    <div style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px;">
+      <span style="display:inline-block; padding:3px 10px; font-size:12px; font-weight:600; border-radius:20px; background-color:#eef2f6; color:#39434d; border:1px solid #d1d9e0;">React</span>
+      <span style="display:inline-block; padding:3px 10px; font-size:12px; font-weight:600; border-radius:20px; background-color:#eef2f6; color:#39434d; border:1px solid #d1d9e0;">Node.js</span>
+      <span style="display:inline-block; padding:3px 10px; font-size:12px; font-weight:600; border-radius:20px; background-color:#eef2f6; color:#39434d; border:1px solid #d1d9e0;">Express</span>
+      <span style="display:inline-block; padding:3px 10px; font-size:12px; font-weight:600; border-radius:20px; background-color:#eef2f6; color:#39434d; border:1px solid #d1d9e0;">MongoDB</span>
+    </div>
+    <div style="display:flex; gap:10px; flex-wrap:wrap;">
+      <a href="https://github.com/HimashGuruge/cbc-frontend" class="proj-btn" style="display:inline-flex; align-items:center; gap:6px; padding:8px 14px; font-size:13px; font-weight:600; border-radius:8px; text-decoration:none; background-color:#f6f8fa; color:#1f2328; border:1px solid #d1d9e0;">Source Code</a>
+      <a href="https://github.com/HimashGuruge/cbc-backend" class="proj-btn" style="display:inline-flex; align-items:center; gap:6px; padding:8px 14px; font-size:13px; font-weight:600; border-radius:8px; text-decoration:none; background-color:#f6f8fa; color:#1f2328; border:1px solid #d1d9e0;">Backend API</a>
+    </div>
+  </div>
+
+</div>
 
 ---
 
