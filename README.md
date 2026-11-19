@@ -16,35 +16,61 @@ I combine backend logic with frontend design to deliver complete, responsive, en
 ## 🧰 Tech Stack & Tools
 
 ### 💻 Full Stack Development
+
 #### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" width="40" height="40" alt="HTML" title="HTML"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" width="40" height="40" alt="CSS" title="CSS"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" width="40" height="40" alt="JavaScript" title="JavaScript"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Light.svg" width="40" height="40" alt="React" title="React"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Vite-Light.svg" width="40" height="40" alt="Vite" title="Vite"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TailwindCSS-Light.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Bootstrap.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap"></td>
+  </tr>
+</table>
 
 #### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Light.svg" width="40" height="40" alt="Node.js" title="Node.js"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/ExpressJS-Light.svg" width="40" height="40" alt="Express.js" title="Express.js"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/PHP-Light.svg" width="40" height="40" alt="PHP" title="PHP"></td>
+  </tr>
+</table>
 
 #### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Light.svg" width="40" height="40" alt="MySQL" title="MySQL"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg" width="40" height="40" alt="MongoDB" title="MongoDB"></td>
+  </tr>
+</table>
 
 #### Other Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Light.svg" width="40" height="40" alt="Python" title="Python"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CPP.svg" width="40" height="40" alt="C++" title="C++"></td>
+  </tr>
+</table>
 
 ---
 
 ## 🎨 Design & UI/UX Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-46A142?style=for-the-badge&logo=coreldraw&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Figma-Light.svg" width="40" height="40" alt="Figma" title="Figma"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Photoshop.svg" width="40" height="40" alt="Photoshop" title="Photoshop"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Illustrator.svg" width="40" height="40" alt="Illustrator" title="Illustrator"></td>
+    <td align="center"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24"><title>CorelDRAW</title><rect width="24" height="24" rx="5.5" fill="#46A142"/><path fill="#fff" transform="translate(5 5) scale(0.583)" d="M10.651 0C10.265.019 9.4.272 8.584.657c-.816.39-3.696 2.161-3.752 6.536.072 4.145 3.847 11.191 6.397 13.455 0 0-4.141-6.952-4.439-13.013C6.488 1.575 10.651 0 10.651 0Zm2.679 0s4.159 1.575 3.861 7.635c-.299 6.061-4.439 13.013-4.439 13.013 2.547-2.264 6.324-9.31 6.396-13.455-.057-4.375-2.936-6.146-3.752-6.536C14.58.272 13.715.019 13.33 0Zm-1.38.019a1.088 1.088 0 0 0-.555.144C9.864.99 8.909 3.982 9.177 8.66c.185 3.242 1.009 7.291 2.422 11.988h.7c1.413-4.697 2.24-8.742 2.425-11.984.268-4.677-.688-7.674-2.219-8.501a1.088 1.088 0 0 0-.555-.144ZM7.017 1.066S2.543 2.909 3.431 8.225c.884 5.32 5.588 10.995 6.986 12.2.503.457-5.777-6.548-6.386-12.699-.291-2.323.39-4.9 2.986-6.66Zm9.966 0c2.595 1.76 3.276 4.337 2.985 6.66-.608 6.151-6.888 13.156-6.386 12.699 1.398-1.205 6.103-6.88 6.987-12.2.888-5.316-3.586-7.159-3.586-7.159Zm-6.815 20.78L10.647 24h2.599l.488-2.154h-3.566Z"/></svg></td>
+  </tr>
+</table>
 
 ---
 
