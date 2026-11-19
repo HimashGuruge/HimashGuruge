@@ -16,11 +16,11 @@
 
 <!-- Socials -->
 <p align="center">
-  <a href="mailto:himezguruge@gmail.com"><img src="https://cdn.simpleicons.org/mail/48BB78" alt="Email" width="22" height="22" style="vertical-align:middle;"/></a>
-  <a href="https://www.linkedin.com/in/himash-guruge-0718b4440/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="22" height="22" style="vertical-align:middle;"/></a>
-  <a href="https://web.facebook.com/profile.php?id=61591531606794"><img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="22" height="22" style="vertical-align:middle;"/></a>
-  <a href="https://my-portfolio-zeta-seven-98.vercel.app"><img src="https://cdn.simpleicons.org/globe/48BB78" alt="Portfolio" width="22" height="22" style="vertical-align:middle;"/></a>
-  <a href="https://github.com/HimashGuruge"><img src="https://cdn.simpleicons.org/github/828895" alt="GitHub" width="22" height="22" style="vertical-align:middle;"/></a>
+  <a href="mailto:himezguruge@gmail.com"><svg width="20" height="20" viewBox="0 0 24 24" fill="#48BB78" style="vertical-align:middle;"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></a>
+  <a href="https://www.linkedin.com/in/himash-guruge-0718b4440/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="vertical-align:middle;"/></a>
+  <a href="https://web.facebook.com/profile.php?id=61591531606794"><img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="20" height="20" style="vertical-align:middle;"/></a>
+  <a href="https://my-portfolio-zeta-seven-98.vercel.app"><img src="https://cdn.simpleicons.org/vercel/48BB78" alt="Portfolio" width="20" height="20" style="vertical-align:middle;"/></a>
+  <a href="https://github.com/HimashGuruge"><img src="https://cdn.simpleicons.org/github/828895" alt="GitHub" width="20" height="20" style="vertical-align:middle;"/></a>
 </p>
 
 <br>
@@ -28,7 +28,7 @@
 <!-- Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HimashGuruge&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg=101522&fg=D6E0F3" alt="GitHub stats" width="300"/>
-  <img src="https://streak-stats.demobox.me/?user=HimashGuruge&hide_border=true&theme=tokyonight&bg=101522&fg=D6E0F3" alt="Streak" width="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimashGuruge&hide_border=true&theme=tokyonight&bg=101522&fg=D6E0F3" alt="Streak" width="300"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashGuruge&layout=compact&theme=tokyonight&bg=101522&fg=D6E0F3&hide=Markdown" alt="Top languages" width="300"/>
