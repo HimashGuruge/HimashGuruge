@@ -1,23 +1,55 @@
-<h1 align="center">Hi, I'm Himash Guruge</h1>
-<p align="center">Full Stack Developer · Creative Designer</p>
-<p align="center">📍 Mt. Lavinia, Sri Lanka</p>
+<h1 align="center">Hi 👋, I'm Himash Guruge</h1>
+<h3 align="center">Full Stack Developer · Creative Designer</h3>
+<p align="center">📍 Mount Lavinia, Sri Lanka</p>
 
----
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/HimashGuruge?tab=repositories">
+    <img src="https://img.shields.io/badge/AVAILABLE%20FOR%20HIRE-success?style=for-the-badge&logoColor=white&labelColor=15202b" alt="Available for hire" />
+  </a>
+  <a href="https://github.com/HimashGuruge/E-commerce-App">
+    <img src="https://img.shields.io/badge/MERN%20%7C%20React%20%7C%20Node-blue?style=for-the-badge&logoColor=white&labelColor=15202b" alt="MERN stack" />
+  </a>
+</p>
 
-## 🚀 About Me  
-I'm a **Full Stack Developer** and a **Multimedia & Web Technology** student at the **University of Vocational Technology (UNIVOTEC)**, passionate about software engineering and modern web development.  
+<br>
+
+<!-- Socials -->
+<p align="center">
+  <a href="mailto:himezguruge@gmail.com"><img src="https://cdn.simpleicons.org/mail/48BB78" alt="Email" width="22" height="22" style="vertical-align:middle;"/></a>
+  <a href="https://www.linkedin.com/in/himash-guruge-0718b4440/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="22" height="22" style="vertical-align:middle;"/></a>
+  <a href="https://web.facebook.com/profile.php?id=61591531606794"><img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="22" height="22" style="vertical-align:middle;"/></a>
+  <a href="https://my-portfolio-zeta-seven-98.vercel.app"><img src="https://cdn.simpleicons.org/globe/48BB78" alt="Portfolio" width="22" height="22" style="vertical-align:middle;"/></a>
+  <a href="https://github.com/HimashGuruge"><img src="https://cdn.simpleicons.org/github/828895" alt="GitHub" width="22" height="22" style="vertical-align:middle;"/></a>
+</p>
+
+<br>
+
+<!-- Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HimashGuruge&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg=101522&fg=D6E0F3" alt="GitHub stats" width="300"/>
+  <img src="https://streak-stats.demobox.me/?user=HimashGuruge&hide_border=true&theme=tokyonight&bg=101522&fg=D6E0F3" alt="Streak" width="300"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashGuruge&layout=compact&theme=tokyonight&bg=101522&fg=D6E0F3&hide=Markdown" alt="Top languages" width="300"/>
+</p>
+
+<br>
+
+## 🚀 About Me
+
+I'm a **Full Stack Developer** and a **Multimedia & Web Technology** student at the **University of Vocational Technology (UNIVOTEC)**, passionate about software engineering and modern web development.
 I combine backend logic with frontend design to deliver complete, responsive, end-to-end solutions.
 
 <br>
+
 💻 **Currently building:** a full [MERN e-commerce platform](https://github.com/HimashGuruge/E-commerce-App) with a live seller dashboard, admin panel, Stripe payments and real-time (Socket.IO) order tracking.
 
----
+<br>
 
 ## 🧰 Tech Stack & Tools
 
-### 💻 Full Stack Development
-
-#### Frontend
+### 💻 Frontend
 
 <table>
   <tr>
@@ -31,7 +63,7 @@ I combine backend logic with frontend design to deliver complete, responsive, en
   </tr>
 </table>
 
-#### Backend
+### ⚙️ Backend
 
 <table>
   <tr>
@@ -41,7 +73,7 @@ I combine backend logic with frontend design to deliver complete, responsive, en
   </tr>
 </table>
 
-#### Databases
+### 🗄️ Databases
 
 <table>
   <tr>
@@ -50,7 +82,7 @@ I combine backend logic with frontend design to deliver complete, responsive, en
   </tr>
 </table>
 
-#### Other Languages
+### 🐍 Other Languages
 
 <table>
   <tr>
@@ -59,9 +91,9 @@ I combine backend logic with frontend design to deliver complete, responsive, en
   </tr>
 </table>
 
----
+<br>
 
-## 🎨 Design & UI/UX Tools
+## 🎨 Design & UI/UX
 
 <table>
   <tr>
@@ -71,7 +103,7 @@ I combine backend logic with frontend design to deliver complete, responsive, en
   </tr>
 </table>
 
----
+<br>
 
 ## ⭐ Featured Projects
 
@@ -82,7 +114,7 @@ I combine backend logic with frontend design to deliver complete, responsive, en
 | [🏗️ CIDA Revamp Site](https://github.com/HimashGuruge/CIDA-Revamp-Site)<br>Website revamp | Complete responsive revamp of the CIDA website — modern layout, improved UI/UX, accessibility and performance enhancements across the full stack. | `React` `CSS` | [Source Code](https://github.com/HimashGuruge/CIDA-Revamp-Site) |
 | [📊 CBC Web App](https://github.com/HimashGuruge/cbc-frontend)<br>Full-stack web app | Combined frontend + backend web application — a React frontend wired to a Node.js / Express API for full end-to-end functionality. | `React` `Node.js` `Express` `MongoDB` | [Frontend](https://github.com/HimashGuruge/cbc-frontend) · [Backend API](https://github.com/HimashGuruge/cbc-backend) |
 
----
+<br>
 
 ## 🎓 Education
 
@@ -90,7 +122,7 @@ I combine backend logic with frontend design to deliver complete, responsive, en
 - **NVQ Level 5 — Information & Communication Technology (ICT)** — Maradana College of Technology, Maradana
 - **NVQ Level 4 — Computer Graphic Designer** — Lalith Athulathmudali Vocational Training Center, Rathmalana
 
----
+<br>
 
 ## 💼 Experience
 
@@ -110,7 +142,7 @@ I combine backend logic with frontend design to deliver complete, responsive, en
 - Worked with design and dev teams to debug, optimize performance, and ship client-ready solutions.
 - Used **Git & GitHub** for version control and collaboration.
 
----
+<br>
 
 ## 📜 Certificates
 
@@ -119,22 +151,22 @@ I combine backend logic with frontend design to deliver complete, responsive, en
 - **IT Essentials** — Cisco Networking Academy
 - **Advanced English Language** — The Noeline Honter Academy
 
----
+<br>
 
 ## 🔥 Current Focus
-- Building modern full-stack applications  
-- UI/UX systems & component libraries  
-- API development & automation  
-- AI tool integrations  
+- Building modern full-stack applications
+- UI/UX systems & component libraries
+- API development & automation
+- AI tool integrations
 - Enhancing Tailwind + Node.js workflows
 
----
+<br>
 
 ## 📫 Connect With Me
 - **Email:** [himezguruge@gmail.com](mailto:himezguruge@gmail.com)
 - **Phone:** +94 75 777 7343
-- **LinkedIn:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18" alt="LinkedIn"> [Himash Guruge](https://www.linkedin.com/in/himash-guruge-0718b4440/)
-- **Facebook:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="18" height="18" alt="Facebook"> [Himash Guruge](https://web.facebook.com/profile.php?id=61591531606794)
+- **LinkedIn:** [Himash Guruge](https://www.linkedin.com/in/himash-guruge-0718b4440/)
+- **Facebook:** [Himash Guruge](https://web.facebook.com/profile.php?id=61591531606794)
 - **Portfolio:** [my-portfolio-zeta-seven-98.vercel.app](https://my-portfolio-zeta-seven-98.vercel.app)
 
 Thanks for visiting my GitHub! Let's build something amazing together 🚀
