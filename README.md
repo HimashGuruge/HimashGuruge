@@ -164,7 +164,7 @@ I combine backend logic with frontend design to deliver complete, responsive, en
 
 ## 📫 Connect With Me
 - **Email:** [himezguruge@gmail.com](mailto:himezguruge@gmail.com)
-- **Phone:** +94 75 777 7343
+- **Phone:** +94 75 ••• •343
 - **LinkedIn:** [Himash Guruge](https://www.linkedin.com/in/himash-guruge-0718b4440/)
 - **Facebook:** [Himash Guruge](https://web.facebook.com/profile.php?id=61591531606794)
 - **Portfolio:** [my-portfolio-zeta-seven-98.vercel.app](https://my-portfolio-zeta-seven-98.vercel.app)
