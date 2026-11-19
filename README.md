@@ -108,8 +108,8 @@ I combine backend logic with frontend design to deliver complete, responsive, en
 ## 📫 Connect With Me
 - **Email:** [himezguruge@gmail.com](mailto:himezguruge@gmail.com)
 - **Phone:** +94 75 777 7343
-- **LinkedIn:** [Himash Guruge](https://www.linkedin.com/in/himash-guruge-0718b4440/)
-- **Facebook:** [Himash Guruge](https://web.facebook.com/profile.php?id=61591531606794)
+- **LinkedIn:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18" alt="LinkedIn"> [Himash Guruge](https://www.linkedin.com/in/himash-guruge-0718b4440/)
+- **Facebook:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="18" height="18" alt="Facebook"> [Himash Guruge](https://web.facebook.com/profile.php?id=61591531606794)
 - **Portfolio:** [my-portfolio-zeta-seven-98.vercel.app](https://my-portfolio-zeta-seven-98.vercel.app)
 
 Thanks for visiting my GitHub! Let's build something amazing together 🚀
