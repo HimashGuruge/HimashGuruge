@@ -56,9 +56,9 @@ I combine backend logic with frontend design to deliver complete, responsive, en
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" width="40" height="40" alt="HTML" title="HTML"></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" width="40" height="40" alt="CSS" title="CSS"></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" width="40" height="40" alt="JavaScript" title="JavaScript"></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Light.svg" width="40" height="40" alt="React" title="React"></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Vite-Light.svg" width="40" height="40" alt="Vite" title="Vite"></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TailwindCSS-Light.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg" width="40" height="40" alt="React" title="React"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Vite-Dark.svg" width="40" height="40" alt="Vite" title="Vite"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TailwindCSS-Dark.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS"></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Bootstrap.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap"></td>
   </tr>
 </table>
@@ -67,9 +67,9 @@ I combine backend logic with frontend design to deliver complete, responsive, en
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Light.svg" width="40" height="40" alt="Node.js" title="Node.js"></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/ExpressJS-Light.svg" width="40" height="40" alt="Express.js" title="Express.js"></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/PHP-Light.svg" width="40" height="40" alt="PHP" title="PHP"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Dark.svg" width="40" height="40" alt="Node.js" title="Node.js"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/ExpressJS-Dark.svg" width="40" height="40" alt="Express.js" title="Express.js"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/PHP-Dark.svg" width="40" height="40" alt="PHP" title="PHP"></td>
   </tr>
 </table>
 
@@ -77,7 +77,7 @@ I combine backend logic with frontend design to deliver complete, responsive, en
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Light.svg" width="40" height="40" alt="MySQL" title="MySQL"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" width="40" height="40" alt="MySQL" title="MySQL"></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg" width="40" height="40" alt="MongoDB" title="MongoDB"></td>
   </tr>
 </table>
@@ -86,7 +86,7 @@ I combine backend logic with frontend design to deliver complete, responsive, en
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Light.svg" width="40" height="40" alt="Python" title="Python"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" width="40" height="40" alt="Python" title="Python"></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CPP.svg" width="40" height="40" alt="C++" title="C++"></td>
   </tr>
 </table>
